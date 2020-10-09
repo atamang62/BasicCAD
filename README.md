@@ -42,12 +42,19 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
+Is a 120mm x120mm rectangle, centered on the origin.
+Has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side (and therefore, 80mm from each other)
+Has another 25 mm circle in the center of the square.
+Extruded the same thickness as the base, 8mm
 
 ### Evidence
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/e40b8536c16d6f7506760f30/w/32c6a71ba1d677853a3d7c41/e/266e495541f03a4cccec66cc)
 
 ### Image
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/mount.png" width="400">
 
 ### Reflection
+It was pretty easy because the video helped alot and the tools on onshape was easier to use.
 
 ---
 
@@ -55,12 +62,16 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
+The assignemnt had a circle with 80m in diamater and it was 8mm thick. I had to make a rectangle and exturde it. After that i had to round up the edges and mirror it on a plane
 
 ### Evidence
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/4f95a61de72d8d36556add29/w/da725f002c55b9a97419b9ae/e/028c1865e8b8b018b9dddb8b)
 
 ### Image
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/fork.png" width="400">
 
 ### Reflection
+Making the for was pretty easy. I learned if you can duplicate an object by using the mirror button.
 
 ---
 
@@ -68,25 +79,34 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Tire
 
 ### Description
+In this I had to create a trapaziod and revolve it. After that you had to smooth out the edges of the trapaziod.
 
 ### Evidence
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/84ddab07afd81429023df413/w/c4c00548465bae441907d6e0/e/61c9ffa26e4368cf5bf92fcf) 
 
 ### Image
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/tire.png" width="400">
 
 ### Reflection
+This was also pretty easy to complete. I learned how to revolve a shape.
 
 ---
+
 
 
 ## Wheel
 
 ### Description
+In this we had to create a t shape for the wheel. Revolve the whole thing and remove some shapes in the inside of the wheel. After that we had to fillet most of the thing.
 
 ### Evidence
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/70b949377c4fe5f7c9ab90f4/w/e94cb60eb21533f68a6ac169/e/02c5f664c40ac7742c3653bf)
 
 ### Image
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/wheel.png" width="400">
 
 ### Reflection
+Making the wheel took some time but it was easy to follow the insructions. I learned you can fillet everything by clicking the shape you want to fillet.
 
 ---
 
