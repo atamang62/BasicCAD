@@ -122,7 +122,7 @@ We had to create the AxleCollarBearing it. You had to add a new part to the whee
 [The Big Bearing in Onshape](https://cvilleschools.onshape.com/documents/9c04094e6a3b2ac7b9230032/w/da0772511ae85a47888aebf7/e/b93f22617188ec789e861e1c)
 
 ### Image
-<img src="https://github.com/atamang62/BasicCAD/blob/main/images/Axle%2CCollar%2CBearing.png" width="400">
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/Axle%2CCollar%2CBearing.png" width="600">
 
 ### Reflection
 Creating the three parts was pretty easy due to the video. I learned that you can add another part in the document by hitting the plus button in the bottom left. You can also add seprate pieces by sketching and extruding it as a new part.
