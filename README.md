@@ -48,7 +48,7 @@ Has another 25 mm circle in the center of the square.
 Extruded the same thickness as the base, 8mm
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/e40b8536c16d6f7506760f30/w/32c6a71ba1d677853a3d7c41/e/266e495541f03a4cccec66cc)
+[The Mount in Onshape](https://cvilleschools.onshape.com/documents/e40b8536c16d6f7506760f30/w/32c6a71ba1d677853a3d7c41/e/266e495541f03a4cccec66cc)
 
 ### Image
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/mount.png" width="400">
@@ -65,7 +65,7 @@ It was pretty easy because the video helped alot and the tools on onshape was ea
 The assignemnt had a circle with 80m in diamater and it was 8mm thick. I had to make a rectangle and exturde it. After that i had to round up the edges and mirror it on a plane
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/4f95a61de72d8d36556add29/w/da725f002c55b9a97419b9ae/e/028c1865e8b8b018b9dddb8b)
+[The Fork in Onshape](https://cvilleschools.onshape.com/documents/4f95a61de72d8d36556add29/w/da725f002c55b9a97419b9ae/e/028c1865e8b8b018b9dddb8b)
 
 ### Image
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/fork.png" width="400">
@@ -82,7 +82,7 @@ Making the for was pretty easy. I learned if you can duplicate an object by usin
 In this I had to create a trapaziod and revolve it. After that you had to smooth out the edges of the trapaziod.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/84ddab07afd81429023df413/w/c4c00548465bae441907d6e0/e/61c9ffa26e4368cf5bf92fcf) 
+[The Tire in Onshape](https://cvilleschools.onshape.com/documents/84ddab07afd81429023df413/w/c4c00548465bae441907d6e0/e/61c9ffa26e4368cf5bf92fcf) 
 
 ### Image
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/tire.png" width="400">
@@ -100,7 +100,7 @@ This was also pretty easy to complete. I learned how to revolve a shape.
 In this we had to create a t shape for the wheel. Revolve the whole thing and remove some shapes in the inside of the wheel. After that we had to fillet most of the thing.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/70b949377c4fe5f7c9ab90f4/w/e94cb60eb21533f68a6ac169/e/02c5f664c40ac7742c3653bf)
+[The Wheel in Onshape](https://cvilleschools.onshape.com/documents/70b949377c4fe5f7c9ab90f4/w/e94cb60eb21533f68a6ac169/e/02c5f664c40ac7742c3653bf)
 
 ### Image
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/wheel.png" width="400">
@@ -114,11 +114,17 @@ Making the wheel took some time but it was easy to follow the insructions. I lea
 ## AxleCollarBearings
 
 ### Description
+We had to create the AxleCollarBearing it. You had to add a new part to the wheel. For the axle and the collar you had to create a long tube with a sepreate pice that sits on the tube.
 
 ### Evidence
+[The Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/352c6bbc6fb42aa7fd9b9067/w/ef1412ea7cae0e50a0bac0cb/e/6e4deecf427b1d09fb8bda81)
+[The Wheel and Bearing in Onshape](https://cvilleschools.onshape.com/documents/70b949377c4fe5f7c9ab90f4/w/e94cb60eb21533f68a6ac169/e/02c5f664c40ac7742c3653bf)
+[The Big Bearing in Onshape](https://cvilleschools.onshape.com/documents/9c04094e6a3b2ac7b9230032/w/da0772511ae85a47888aebf7/e/b93f22617188ec789e861e1c)
 
 ### Image
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/Axle%2CCollar%2CBearing.png" width="400">
 
 ### Reflection
+Creating the three parts was pretty easy due to the video. I learned that you can add another part in the document by hitting the plus button in the bottom left. You can also add seprate pieces by sketching and extruding it as a new part.
 
 ---
