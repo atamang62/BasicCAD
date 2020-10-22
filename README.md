@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Wheel and Tire] (#Wheel-and-Tire)
 
 ## Base
 
@@ -128,3 +129,19 @@ We had to create the AxleCollarBearing it. You had to add a new part to the whee
 Creating the three parts was pretty easy due to the video. I learned that you can add another part in the document by hitting the plus button in the bottom left. You can also add seprate pieces by sketching and extruding it as a new part.
 
 ---
+
+
+
+## Wheel and Tire
+
+### Description
+In this we had assemble the parts wheel and tire together.
+
+### Evidence
+[The Wheel in Onshape](https://cvilleschools.onshape.com/documents/1cf4e6a78ee6f9e38cf6e15c/w/ee90db6c561d4cb49b1604c6/e/8fc3406a77afacb1dac9229e)
+
+### Image
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/Wheel%20and%20tire.png" width="400">
+
+### Reflection
+I learned that you can switch from part and assembly. You can inster the parts from other documents. I also learend how to use the fastend mate and revolve mate.
