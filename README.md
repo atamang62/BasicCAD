@@ -55,7 +55,7 @@ Extruded the same thickness as the base, 8mm
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/mount.png" width="400">
 
 ### Reflection
-It was pretty easy because the video helped alot and the tools on onshape was easier to use.
+Making the mount was pretty easy. You can use the extrude button to either remove a shape or add a shape to the existng shape. I learned how to mirror by clicking the shape you want to mirror and clicking the axis you want to mirror over.
 
 ---
 
@@ -72,7 +72,7 @@ The assignemnt had a circle with 80m in diamater and it was 8mm thick. I had to 
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/fork.png" width="400">
 
 ### Reflection
-Making the for was pretty easy. I learned if you can duplicate an object by using the mirror button.
+Using the mirror buttom made it so easier to make the fork. Insted of making another long piece, I can just mirror the piece over the desiered axis.
 
 ---
 
@@ -89,25 +89,25 @@ In this I had to create a trapaziod and revolve it. After that you had to smooth
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/tire.png" width="400">
 
 ### Reflection
-This was also pretty easy to complete. I learned how to revolve a shape.
+I learned how to revolve a shape. It is very important you click the right axis you want to revolve the shape or it will not work. You can use the fillet (shift-f) to round up the tire.
 
 ---
 
 
 
-## Wheel
+## Wheel and Barring
 
 ### Description
 In this we had to create a t shape for the wheel. Revolve the whole thing and remove some shapes in the inside of the wheel. After that we had to fillet most of the thing.
 
 ### Evidence
-[The Wheel in Onshape](https://cvilleschools.onshape.com/documents/70b949377c4fe5f7c9ab90f4/w/e94cb60eb21533f68a6ac169/e/02c5f664c40ac7742c3653bf)
+[The Wheel and Barring in Onshape](https://cvilleschools.onshape.com/documents/70b949377c4fe5f7c9ab90f4/w/e94cb60eb21533f68a6ac169/e/02c5f664c40ac7742c3653bf)
 
 ### Image
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/wheel.png" width="400">
 
 ### Reflection
-Making the wheel took some time but it was easy to follow the insructions. I learned you can fillet everything by clicking the shape you want to fillet.
+I learned you can fillet everything by clicking the shape you want to fillet. You can use the circular pattern to duplicate the extruded shape into a circular pattern. You can also add many as you would like.
 
 ---
 
@@ -126,16 +126,15 @@ We had to create the AxleCollarBearing it. You had to add a new part to the whee
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/Axle%2CCollar%2CBearing.png" width="600">
 
 ### Reflection
-Creating the three parts was pretty easy due to the video. I learned that you can add another part in the document by hitting the plus button in the bottom left. You can also add seprate pieces by sketching and extruding it as a new part.
+Creating the three parts was pretty easy due to the [video.](https://youtu.be/2r7YqGuF1vY) I learned that you can add another part in the document by hitting the plus button in the bottom left. You can also add seprate pieces by sketching and extruding it as a new part.
 
 ---
-
 
 
 ## Wheel and Tire
 
 ### Description
-In this we had assemble the parts wheel and tire together.
+In this we had assemble the parts wheel and tire together. Assembling the parts was pretty easy due to [this video on canvas.](https://youtu.be/R4PDBd8H5h8)
 
 ### Evidence
 [The Wheel in Onshape](https://cvilleschools.onshape.com/documents/1cf4e6a78ee6f9e38cf6e15c/w/ee90db6c561d4cb49b1604c6/e/8fc3406a77afacb1dac9229e)
@@ -144,4 +143,19 @@ In this we had assemble the parts wheel and tire together.
 <img src="https://github.com/atamang62/BasicCAD/blob/main/images/Wheel%20and%20tire.png" width="400">
 
 ### Reflection
-I learned that you can switch from part and assembly. You can inster the parts from other documents. I also learend how to use the fastend mate and revolve mate.
+You can switch from part and assembly. You can insert the parts from other documents and create versions of them. I learend how to use the fastend mate (m) and revolve mate (m).
+
+
+## Final assembly 
+
+### Description
+In this I had to put all the pieces together. To do that I had to switch over the the assembly part. After that, I dropped down all the parts and put them together using the mates.
+
+### Evidence
+[The Final assembly in Onshape](https://cvilleschools.onshape.com/documents/9d8ba818cf89c4c56acde1b2/w/8302d5d63b4e1a515490ca4b/e/1a6c0bd547f0f62ffaf492bd)
+
+### Image
+<img src="https://github.com/atamang62/BasicCAD/blob/main/images/Final%20Assembly.png?raw=true" width="400">
+
+### Reflection
+In this I had to assemble all the parts together. Instead of dragging the piece and fastening it to the orgin, you can click the check and it automatically puts it in the orgin. You can add nuts and bolts by clicking the insert, then the standerd content.
