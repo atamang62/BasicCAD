@@ -12,6 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Wheel and Tire](#wheel-and-Tire)
+* [Final Assembly](#Final-Assembly)
 
 ## Base
 
@@ -144,6 +145,8 @@ In this we had assemble the parts wheel and tire together. Assembling the parts 
 
 ### Reflection
 You can switch from part and assembly. You can insert the parts from other documents and create versions of them. I learend how to use the fastend mate (m) and revolve mate (m).
+
+---
 
 
 ## Final assembly 
